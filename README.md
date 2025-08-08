@@ -125,7 +125,7 @@ pareto-frontier-forecasting/
 │   └── models/
 │       └── frontier_approximation.pkl
 ├── documentation/
-│   └── Recreating_Two_dimensional_Pareto.pdf
+│   └── (PDF available via Google Drive link)
 └── documentation/
     └── methodology_notes.md
 ```
@@ -138,7 +138,7 @@ This project includes comprehensive PDF documentation that provides:
 - **Frontier Identification**: Custom algorithm development
 - **Validation Procedures**: Comparison with original research
 
-**📖 View Documentation**: [Recreating_Two_dimensional_Pareto.pdf](documentation/Recreating_Two_dimensional_Pareto.pdf)
+**📖 View Documentation**: [Recreating_Two_dimensional_Pareto.pdf](https://drive.google.com/file/d/1_4QTaAt04O1NUFitQg6WTrRsM9dxKvjG/view?usp=share_link)
 
 ## 🔬 Research Applications
 
