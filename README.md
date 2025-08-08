@@ -124,9 +124,21 @@ pareto-frontier-forecasting/
 │   │   └── manufacturer_analysis.png
 │   └── models/
 │       └── frontier_approximation.pkl
+├── documentation/
+│   └── Recreating_Two_dimensional_Pareto.pdf
 └── documentation/
     └── methodology_notes.md
 ```
+
+## 📄 Documentation
+
+This project includes comprehensive PDF documentation that provides:
+- **Pareto Frontier Methodology**: Complete implementation guide
+- **Multi-Objective Optimization**: Detailed algorithm explanations
+- **Frontier Identification**: Custom algorithm development
+- **Validation Procedures**: Comparison with original research
+
+**📖 View Documentation**: [Recreating_Two_dimensional_Pareto.pdf](documentation/Recreating_Two_dimensional_Pareto.pdf)
 
 ## 🔬 Research Applications
 
