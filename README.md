@@ -138,7 +138,7 @@ This project includes comprehensive PDF documentation that provides:
 - **Frontier Identification**: Custom algorithm development
 - **Validation Procedures**: Comparison with original research
 
-**📖 View Documentation**: [Recreating_Two_dimensional_Pareto.pdf](https://drive.google.com/file/d/1_4QTaAt04O1NUFitQg6WTrRsM9dxKvjG/view?usp=sharing)
+**📖 View Documentation**: [Recreating_Two_dimensional_Pareto.pdf](https://drive.google.com/file/d/1qgidOPYxjxfbk7WNfMsS9lWws5D-6szC/view?usp=sharing)
 
 ## 🔬 Research Applications
 
